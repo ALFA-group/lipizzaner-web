@@ -3,6 +3,12 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 <p class="mb-4">Please send us an email to your message to <strong>{{site.email}}</strong>. We will reply as soon as possible!</p>
+
+<p> <a href="https://twitter.com/LipizzanerGAN">
+<img src="assets/images/twitter-logo.png"
+     alt="Follow @LipizzanerGAN"
+     width="20%"
+     style="float: left; margin-right: 10px;" /></a> </p>
 <!--
 <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
